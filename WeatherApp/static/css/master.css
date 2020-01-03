@@ -1,0 +1,16 @@
+body {
+  background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://openweathermap.org/themes/openweathermap/assets/img/new-history-forecast-bulk.png');
+  background-repeat: repeat;
+  background-position: center center;
+}
+.footer1 {
+  text-align: center;
+}
+.back {
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(179,133,5,1) 0%, rgba(0,212,255,1) 100%);
+}
+.hero-body {
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(151,0,175,1) 0%, rgba(0,212,255,1) 100%);
+}
